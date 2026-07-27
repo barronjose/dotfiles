@@ -1,0 +1,12 @@
+[keys]
+prefix = "ctrl+space"
+goto = "prefix+g"
+new_tab = "prefix+c"
+split_vertical = "prefix+|"
+split_horizontal = "prefix+_"
+
+[theme]
+name = "tokyo-night"
+auto_switch = true
+light_name = "tokyo-night-day"
+dark_name = "tokyo-night"
