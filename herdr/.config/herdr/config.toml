@@ -1,9 +1,20 @@
+[terminal]
+default_shell = ""
+
+[advanced]
+scrollback_limit_bytes = 10000000
+
 [keys]
 prefix = "ctrl+space"
+reload_config = "prefix+R"
 goto = "prefix+g"
+
+# Panel splits
 new_tab = "prefix+c"
+close_tab = "prefix+X"
 split_vertical = "prefix+|"
 split_horizontal = "prefix+_"
+close_pane = "prefix+x"
 
 [theme]
 name = "tokyo-night"
